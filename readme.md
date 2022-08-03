@@ -1,4 +1,4 @@
-# TP1 - Plugin Carrousel Wordpres
+# TP1 - Plugin Carrousel Wordpress
 
 
 [GitHub-Page](https://github.com/e2194579/31w-carrousel.git) 
