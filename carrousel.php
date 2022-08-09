@@ -1,6 +1,6 @@
 <?php 
  /**
- * Plugin name: Carrouse
+ * Plugin name: Carrousel
  * Description: Carrousel d'images créé à partir d'une galeried'images
  * Author: RBC
  * Author URI: https://github.com/e2194579
